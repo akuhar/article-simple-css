@@ -13,6 +13,8 @@ The header is layered into three sections:
 
 This allows the text to readable, but the background image to be seen through the negative space--a common practice in many websites today.
 
+*Photograph courtesy of the Chicago Tribune/Jeni's Splendid Ice Creams: http://www.chicagotribune.com/dining/chi-jenis-splendid-ice-cream-opens-in-wicker-park-20150309-story.html*
+
 ## Typography
 Utilizes remote Google Fonts and well-supported typography styles to create a light-weight but balanced hierarchy.
 
