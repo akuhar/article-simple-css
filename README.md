@@ -5,7 +5,7 @@ By browsing the details of the CSS, you may discover a number of increasingly co
 
 * *Note: Not all the styles (background-image properties in particular) are supported by older browsers as-is, so be sure to test them for yourself when using this as a reference tool. The support for more intituive CSS styles is becoming better and more ubiquitos, but front-end designers should always be cautious to assume that the latest and greatest CSS rules will work for every user.*
 
-## Background-image-friendly feader
+## Background-image-friendly header
 The header is layered into three sections:
 * An empty div with background-image properties
 * A content container with padding rules and a transparent, but dark, background-color
